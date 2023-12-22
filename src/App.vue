@@ -56,7 +56,6 @@ window.addEventListener('click', function (event) {
           <a target="_blank" href="https://linkedin.com/in/SebastienMerv"><i class="fa-brands fa-linkedin"></i></a>
           <a target="_blank" href="https://twitter.com/SebastienMerv"><i class="fa-brands fa-twitter"></i></a>
           <a target="_blank" href="https://instagram.com/SebastienMerv"><i class="fa-brands fa-instagram"></i></a>
-          <a href="tel:+32470287582"><i class="fa-solid fa-phone"></i></a>
           <a href="mailto:info@sebastienmerv.be"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>

@@ -50,4 +50,19 @@ section .logo {
     grid-row: 1;
     border-radius: 100%;
 }
+
+@media only screen and (max-width: 900px) {
+    section {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    section .logo {
+        display: none;
+    }
+
+    section img {
+        width: 100%;
+    }
+}
 </style>
